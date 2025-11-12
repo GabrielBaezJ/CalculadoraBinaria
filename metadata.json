@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora Binaria con Pasos",
+  "description": "Una aplicación web para realizar sumas, restas y multiplicaciones binarias, mostrando el proceso de resolución paso a paso con explicaciones opcionales generadas por IA.",
+  "requestFramePermissions": []
+}

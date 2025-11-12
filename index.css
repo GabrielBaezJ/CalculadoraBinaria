@@ -1,0 +1,5 @@
+/* The app uses TailwindCSS via CDN, this file is for any potential global overrides. */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
